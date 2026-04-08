@@ -1,6 +1,6 @@
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Edson+Augusto;eu+tenho+23+anos+de+idade;estou+cursando+engenharia+de+computação;+Welcome!+:%29)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Edson+Augusto;eu+tenho+23+anos+de+idade;estou+cursando+engenharia+de+computação;+Welcome!+:%29)](https://git.io/typing-svg)
 
-Sou estudante de Engenharia de Computação (8º semestre) com foco em desenvolver soluções que unem eficiência de hardware e inteligência de software. Atualmente, busco minha primeira oportunidade de estágio para aplicar meus conhecimentos em projetos de escala real.
+Sou Edson Augusto estudante de Engenharia de Computação (8º semestre) com foco em desenvolver soluções que unem eficiência de hardware e inteligência de software. Atualmente, busco minha primeira oportunidade de estágio para aplicar meus conhecimentos em projetos de escala real.
 
 
 ## 🎯 Meu Objetivo ##
