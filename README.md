@@ -1,4 +1,4 @@
-Olá, eu sou Edson Augusto
+## Olá, eu sou Edson Augusto ##
 
 Sou estudante de Engenharia de Computação (8º semestre) com foco em desenvolver soluções que unem eficiência de hardware e inteligência de software. Atualmente, busco minha primeira oportunidade de estágio para aplicar meus conhecimentos em projetos de escala real.
 
@@ -157,19 +157,7 @@ Interesses: Arquitetura de Computadores, Visão Computacional, Sistemas Operacio
 ### 📊 Estatísticas ###
 
 <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=edson-2003&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=edson-2003&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+<img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=edson-2003&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117"/>
+<img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=edson-2003&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 
 </p>
