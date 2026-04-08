@@ -3,11 +3,11 @@
 Sou Edson Augusto estudante de Engenharia de Computação (8º semestre) com foco em desenvolver soluções que unem eficiência de hardware e inteligência de software. Atualmente, busco minha primeira oportunidade de estágio para aplicar meus conhecimentos em projetos de escala real.
 
 
-## 🎯 Meu Objetivo ##
+##  Meu Objetivo ##
 
 Atualmente, busco integrar uma equipe de desenvolvimento onde eu possa contribuir com meus conhecimentos em C++ e Python. Tenho facilidade com ambientes Linux e grande interesse em resolver problemas complexos que envolvam otimização de sistemas, inteligência artificial ou arquitetura de software.
 
-## 🛠️ No que estou trabalhando ##
+##  No que estou trabalhando ##
 
 - Sistemas de Baixo Nível: Desenvolvendo um gerenciador de processos para Linux utilizando C++ e Qt Creator, focado em performance e integração com o kernel.
 
@@ -15,7 +15,7 @@ Atualmente, busco integrar uma equipe de desenvolvimento onde eu possa contribui
 
 - Automação e Ferramentas: Experiência sólida em Python para criação de dashboards, automação de processos e manipulação de dados.
 
-## 💻 Meu Stack Técnico ##
+##  Minha Stack ##
 
 Linguagens: C++, Python, C, PHP, Java.
 
@@ -24,7 +24,7 @@ Ambiente: Linux (Debian Trixie) e desenvolvimento voltado para sistemas Unix-lik
 Interesses: Arquitetura de Computadores, Visão Computacional, Sistemas Operacionais e Programação Concorrente.
 
 
-### 🤖 Linguagens e Tecnologias
+###  Linguagens e Tecnologias
 <img 
     align="left" 
     alt="C" 
@@ -154,7 +154,7 @@ Interesses: Arquitetura de Computadores, Visão Computacional, Sistemas Operacio
 <br/>
 <br/>
 
-### 📊 Estatísticas ###
+###  Estatísticas ###
 
 <p>
 <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=edson-2003&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117"/>
